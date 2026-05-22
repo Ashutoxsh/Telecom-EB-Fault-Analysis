@@ -1,0 +1,7 @@
+All Rights Reserved © Ashutosh Mishra
+
+This project, including its dashboards, reports, datasets, SQL queries, visuals, and documentation, is protected under copyright law.
+
+No part of this project may be copied, modified, distributed, reproduced, published, or used commercially without explicit written permission from the author.
+
+This repository is publicly visible for portfolio and demonstration purposes only.
