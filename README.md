@@ -1,4 +1,4 @@
-📊 Telecom Site Fault Monitoring & Analysis
+## 📊 Telecom Site Fault Monitoring & Analysis
 
 This project analyzes telecom site faults across multiple operational zones, focusing specifically on Electricity Board (EB) systems and electrical infrastructure failures that impacted telecom site uptime and runtime continuity. The findings are visualized through an interactive Power BI dashboard to identify operational trends, SLA performance, repeat fault behavior, and zone-wise fault distribution.
 
